@@ -1,0 +1,5 @@
+*.o
+main
+ft_ls
+obj
+*.a
